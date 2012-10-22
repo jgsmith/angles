@@ -18,11 +18,11 @@ software through their teaching and research.
 
 ### Using Angles
 
-The Angles plugins are provided under the BSD license.
+The Angles plugins are provided under the [BSD license](http://opensource.org/licenses/bsd-license.php).
 
 ### Contributing to Angles
 
-The easiest way to contribute to Video Annotator is to fork the github 
+The easiest way to contribute to Angles is to fork the github 
 repository and create a pull request once you have implemented and 
 tested your changes.
 
